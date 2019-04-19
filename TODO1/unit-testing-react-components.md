@@ -3,7 +3,7 @@
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/TODO1/unit-testing-react-components.md](https://github.com/xitu/gold-miner/blob/master/TODO1/unit-testing-react-components.md)
 > * 译者：[xionglong58](https://github.com/xionglong58)
-> * 校对者：
+> * 校对者：[Fengziyin1234 ](https://github.com/Fengziyin1234)、[xingqiwu55555](https://github.com/xingqiwu55555)
 
 # 对 React 组件进行单元测试
 
